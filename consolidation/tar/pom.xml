@@ -14,7 +14,7 @@ Tarball packaging of consolidation.
   <parent>
     <groupId>eu.stratuslab.monitoring</groupId>
     <artifactId>consolidation</artifactId>
-    <version>14.06.0_RC3-SNAPSHOT</version>
+    <version>14.06.0_RC3</version>
   </parent>
 
   <profiles>

@@ -3,7 +3,7 @@
 
   <groupId>eu.stratuslab.monitoring</groupId>
   <artifactId>monitoring</artifactId>
-  <version>14.06.0_RC4</version>
+  <version>14.06.0_RC5-SNAPSHOT</version>
   <name>StratusLab Monitoring (POM)</name>
 
   <url>http://github.com/StratusLab/monitoring</url>
@@ -33,7 +33,7 @@ Utilities for monitoring cloud resource utilization.
   <scm>
     <connection>scm:git:ssh://git@github.com/StratusLab/monitoring.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/StratusLab/monitoring.git</developerConnection>
-    <tag>monitoring-14.06.0_RC4</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <repositories>
